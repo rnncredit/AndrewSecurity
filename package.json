@@ -1,0 +1,20 @@
+{
+  "name": "security-app",
+  "version": "1.0.0",
+  "description": "Testing Authentication with Mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naren",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "*",
+    "express": "*",
+    "jsonwebtoken": "^8.0.1",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.10.8",
+    "validator": "^8.2.0"
+  }
+}
